@@ -4,7 +4,7 @@ title:  "Happy Teacher"
 date:   2016-07-10 09:52:59 -0700
 categories: app
 ---
-![Happy Teacher](/assets/ht_feature.PNG)
+![Happy Teacher]({{ site.url }}/assets/ht_feature.PNG)
 
 # Happy Teacher
 
