@@ -3,13 +3,16 @@ layout: post
 title:  "Happy Teacher"
 date:   2016-07-10 09:52:59 -0700
 categories: app
+permalink: /happyteacher
 ---
 ![Happy Teacher](img/ht_feature.png)
 
 # Happy Teacher
 
-*Happy Teacher* is a an Android app for distributing creative and engaging lesson plans to teachers in the state of Maharashtra, India.
+*[Happy Teacher](https://play.google.com/store/apps/details?id=org.jnanaprabodhini.happyteacherapp&hl=en)* is a an Android app for distributing creative and engaging lesson plans to teachers in the state of Maharashtra, India.
 
 Developed for the [Educational Resource Center](http://www.erc-pune.org/) at [Jnana Prabodhini](http://www.jnanaprabodhini.org/) in Pune, India, *Happy Teacher* aggregates lessons in accordance with the Maharashtra state syllabus into an accessible place for teachers, including those who may not have time, ability, or resources to come up with their own lesson plans.
 
 The app is designed with easy offline support due to potential for poor net connectivity, and it currently supports English and Marathi languages.
+
+[You can download it on the Google Play store](https://play.google.com/store/apps/details?id=org.jnanaprabodhini.happyteacherapp&hl=en).
