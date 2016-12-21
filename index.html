@@ -1,17 +1,25 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta name="theme-color" content="#00272B">
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+        <title>e.g., i.e.</title>   
+        <link rel="stylesheet" href="main.css">
+        <link rel="shortcut icon" type="image/png" href="/favicon.ico"/> 
+    </head>
+    <body>
 
-<div class="home">
-
-    <ul class="post-list">
-        {% for post in site.posts %}
-        <li>
-
-            <p>{{ post.content | markdownify }}</p>
-
-        </li>
-        {% endfor %}
-    </ul>
-
-</div>
+        <div id="center-band">
+            <div id="brand-name">
+                <h1>e.g., i.e.</h1>
+                <div id="description">
+                    <p>An app studio.</p>
+                </div>
+                <a href="mailto:graham@egie.xyz">Contact</a>
+            </div> 
+        </div>
+        
+    </body>
+</html>
