@@ -4,15 +4,15 @@ html {
     -webkit-font-smoothing: antialiased;    
     background-color: #fff1ff;
     
-    padding-left: 50px;
-    padding-top: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (min-width: 900px) {
     html {
-        padding-left: 10px;
-        padding-top: 10px;
-    }
+        padding-left: 50px;
+        padding-top: 50px;
+    }   
 }
 
 body {
