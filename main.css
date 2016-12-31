@@ -28,6 +28,20 @@ h2 {
     text-transform: uppercase;
 }
 
+@media only screen and (max-width: 500px) {
+    h1 {
+        font-size: 18vw;
+    }
+    
+    h2 {
+        font-size: 10vw;
+    }
+    
+    a {
+        font-size: 6vw;
+    }
+}
+
 a {
     color: gainsboro;
     text-transform: uppercase;
